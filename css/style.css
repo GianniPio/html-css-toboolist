@@ -8,6 +8,7 @@
 
 body{
     background-color: rgba(230, 230, 230, 0.486);
+    font-family: Arial;
 }
 
 .white{
@@ -31,7 +32,6 @@ hr{
     font-size: 40px; 
     font-weight: bold;
     color: rgb(6, 6, 54);
-    font-family: Arial;
     padding: 8px 50px 50px 50px  ;
 }
 
@@ -48,8 +48,6 @@ hr{
 button{
     border-radius: 5px;
     margin-top: 15px;
-    margin-left: 70px;
-    margin-right: -65px;
     padding: 10px  15px;
     border: none;
     color: whitesmoke;
@@ -64,4 +62,33 @@ button{
     color: #c4c4c4;
     background-color: white;
     border: 1px solid #c4c4c4;
+}
+
+h2{
+    margin-top: 30px;
+}
+
+.margin{
+    margin-left: 70px;
+}
+
+.check{
+    color:green;
+    margin-right: 5px;
+    padding: 2px ;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+
+p{
+    display: inline-block;
+}
+
+.radius{
+    border-radius: 20px;
+
+}
+
+.viola{
+    background-color: rgb(136, 22, 218);
 }
