@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgba(230, 230, 230, 0.486);
+    background-color: #e6e6e67c;
     font-family: Arial;
 }
 
@@ -16,7 +16,7 @@ body{
 }
 
 hr{
-    border: 1px solid rgba(230, 230, 230, 0.486);
+    border: 1px solid #e6e6e67c;
     margin-top: 10px;
 }
 
