@@ -10,23 +10,39 @@ body{
     background-color: rgba(230, 230, 230, 0.486);
 }
 
+.white{
+    background-color: white;
+}
+
+hr{
+    color: rgba(230, 230, 230, 0.486);
+    font-size: 2px;
+}
+
 /* tag header */
 
 .icon{
-    padding: 1px;
     background-image: url(../img/Logo.png);
     background-repeat: no-repeat;
-    
-   
-   
 }
 
 .title{
-    background-color: white;
     height: 60px;
     font-size: 40px; 
     font-weight: bold;
     color: rgb(6, 6, 54);
     font-family: Arial;
-    padding: 10px 50px 50px 50px  ;
+    padding: 8px 50px 50px 50px  ;
+}
+
+/* tag main */
+
+.bottom{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 550px;
+    width: 800px;
+    background-color: white;
+    margin: 30px  0px  0px  250px;
+    
 }
